@@ -1,0 +1,34 @@
+<!DOCtype html>
+ <html>
+ <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+ <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+     <head>
+       <center>
+       <ul>
+       <li><a href="pickahotel.html">Pick a hotel</a></li>
+       <li><a href="chooseatime.html">Choose a time </a></li>
+       <li><a
+        href="planyourday.html">Plan your day</a><li>
+       </ul>
+     </center>
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="Free, Web, App, Publishers, Awesome, Sauce, Books, The Bachelor, Free Movies, Happy Gilmore">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+    <title>Disney World</title>
+    <link rel="stylesheet" type="text/css" href="mystyle.css"
+
+  </head>
+  <body>
+    <h1> Disney World <h1>
+<img class="castle" src="http://www.wnd.com/files/2015/07/disney-castle.png" style="width: 50%"
+<a href="page3.html"><img src="https://img.clipartfox.com/60d7644ffdedbb3f9bd2f331702b635b_disney-world-clipart-clipart-free-disney-world-clipart_1043-547.gif"" style="width: 30%"
+
+<img src="http://vignette2.wikia.nocookie.net/vsbattles/images/d/da/Walt_Disney_Animation.jpg/revision/latest?cb=20161221075337"
+<br>
+<br>
+<a href="page2.html">Click me to win a free trip to Disney</a>
+<p>Learn how to plan a trip to Disney or click above to win! Disney World is known as the happiest place on earth and it truely is. There are many things to do to keep you entertained with your family and friends. It has four theme parks and two water parks to enjoy. People of all ages are welcome!<p>
